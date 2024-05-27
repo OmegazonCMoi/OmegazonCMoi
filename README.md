@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Omega!
+# 👋 Salut, je suis Omega (ou Zitoune pour les intimes)!
 
 ![Omega Banner](https://i.imgur.com/2eWxXLT.jpeg)
 
