@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Omega!
 
-![Omega Banner](https://via.placeholder.com/800x200.png?text=Bienvenue+sur+mon+profil+GitHub!)
+![Omega Banner](https://unsplash.com/photos/vpOeXr5wmR4)
 
 ### 🌐 Développeur Web Full Stack
 
