@@ -1,8 +1,14 @@
 # 👋 Salut, je suis Omega!
 
+![Omega Banner](https://via.placeholder.com/800x200.png?text=Bienvenue+sur+mon+profil+GitHub!)
+
 ### 🌐 Développeur Web Full Stack
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. Voici un aperçu de mes compétences et des technologies que j'utilise.
+Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
+
+## 📫 Me contacter
+- **Email**: [zitoune69420@protonmail.com](mailto:zitoune69420@protonmail.com)
+- **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
 
 ## 🚀 Compétences
 
@@ -33,10 +39,3 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec un
 - **React** pour développer des interfaces utilisateur dynamiques et réactives.
 - **Symfony** pour des applications web robustes et modulaires.
 - **Tailwind CSS** pour un design rapide et efficace.
-
-## 📫 Me contacter
-- **Email**: [zitoune69420@protonmail.com](mailto:zitoune69420@protonmail.com)
-- **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
-
-N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
-
