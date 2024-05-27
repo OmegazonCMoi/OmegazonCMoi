@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Omega!
 
-![Omega Banner](https://unsplash.com/photos/vpOeXr5wmR4)
+![Omega Banner](https://imgur.com/2eWxXLT)
 
 ### 🌐 Développeur Web Full Stack
 
