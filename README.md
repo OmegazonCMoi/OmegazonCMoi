@@ -1,16 +1,46 @@
-## Hi there 👋
+Bien sûr ! Voici un modèle de README pour ton profil GitHub qui met en avant tes compétences et les technologies que tu maîtrises. N'oublie pas de personnaliser certaines sections selon tes préférences et informations spécifiques.
 
-<!--
-**OmegazonCMoi/OmegazonCMoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Salut, je suis Omega!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Développeur Web Full Stack
+
+Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. Voici un aperçu de mes compétences et des technologies que j'utilise.
+
+## 🚀 Compétences
+
+### Front-end
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **React**
+- **Tailwind CSS**
+
+### Back-end
+- **PHP**
+- **Symfony**
+
+### Bases de données
+- **SQL**
+- **MySQL**
+
+### Autres compétences
+- **Git & GitHub** pour le contrôle de version
+- **Responsive Design** pour des interfaces utilisateur adaptatives
+
+## 🔧 Outils & Environnements
+- **Visual Studio Code** pour l'édition de code
+- **Node.js & npm** pour la gestion des paquets
+
+## 🌱 En ce moment, j'apprends...
+- **React** pour développer des interfaces utilisateur dynamiques et réactives.
+- **Symfony** pour des applications web robustes et modulaires.
+- **Tailwind CSS** pour un design rapide et efficace.
+
+## 📫 Me contacter
+- **Email**: [zitoune69420@protonmail.com](mailto:zitoune69420@protonmail.com)
+- **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
+
+N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
+
