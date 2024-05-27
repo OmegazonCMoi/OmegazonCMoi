@@ -1,8 +1,11 @@
-# 👋 Salut, je suis Omega (ou Zitoune pour les intimes) !
+<h1 align="center">👋 Salut, je suis Omega (ou Zitoune pour les intimes) !</h1>
 
 ![Omega Banner](https://i.imgur.com/TiUgqOk.jpeg)
 
 <h2 align="center">🌐 Développeur Web Full Stack 🌐</h2>
+
+<p align="center">Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
