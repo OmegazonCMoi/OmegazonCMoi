@@ -1,7 +1,3 @@
-Bien sûr ! Voici un modèle de README pour ton profil GitHub qui met en avant tes compétences et les technologies que tu maîtrises. N'oublie pas de personnaliser certaines sections selon tes préférences et informations spécifiques.
-
----
-
 # 👋 Salut, je suis Omega!
 
 ### 🌐 Développeur Web Full Stack
