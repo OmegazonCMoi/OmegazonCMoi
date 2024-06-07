@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Omega (ou Zitoune pour les intimes) !</h1>
+<h1 align="center">👋 Salut, je suis Omega !</h1>
 
 ![Omega Banner](https://i.imgur.com/TiUgqOk.jpeg)
 
