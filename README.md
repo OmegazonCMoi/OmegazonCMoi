@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Me contacter
-- **Email**: [zitoune69420@protonmail.com](mailto:zitoune69420@protonmail.com)
+- **Email**: [jesuisjesus453@gmail.com](mailto:jesuisjesus453@gmail.com)
 - **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
 
 ## 🌱 En ce moment, j'apprends...
