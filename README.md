@@ -5,11 +5,15 @@
 <div align="center">
   <h3>My Skills</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark" alt="Skills icons">
-  <picture>
+</div>
+
+<div align"center">
+  <h3>Little Snake</h3>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>  
 </div>
 
 <div align="center">
