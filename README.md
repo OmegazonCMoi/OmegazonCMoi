@@ -29,6 +29,7 @@
 ###
 
 <div align="center">
+  <h3>Views</h3>
   <img src="https://profile-counter.glitch.me/OmegazonCMoi/count.svg?"  />
 </div>
 
