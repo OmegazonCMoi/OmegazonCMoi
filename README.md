@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋! My name is Omega and I'm a Full Stack Developer from France !</h2>
+<h2 align="center">Hi 👋! My name is Omega and I'm a Full Stack Developer from France !</h2>
 
 ###
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark" align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark">
+</div>
 
 ###
 
