@@ -17,8 +17,15 @@ jobs:
         with:
           github_user_name: OmegazonCMoi
           gif_out_path: dist/github-contribution-grid-snake.svg
-      - name: Output snake game
-        uses: actions/upload-artifact@v2
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate Snake Game"
+          git push
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: snake-game
-          path: dist/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
