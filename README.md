@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark" align="center">
+
+###
+
 <div align="center">
   <a href="https://discordapp.com/users/1122447426570174555" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -19,10 +23,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/OmegazonCMoi/OmegazonCMoi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark"></p>
 
 ###
 
