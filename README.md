@@ -1,47 +1,48 @@
-<h1 align="center">👋 Salut, je suis Omega !</h1>
+<h2 align="left">Hi 👋! My name is Omega and I'm a Full Stack Developer from France !</h2>
 
-![Omega Banner](https://i.imgur.com/TiUgqOk.jpeg)
+###
 
-<h2 align="center">🌐 Développeur Web Full Stack 🌐</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmegazonCMoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmegazonCMoi&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-</p>
+<div align="center">
+  <a href="https://discordapp.com/users/1122447426570174555" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCPzzyi99_8D0uUcHXRwE5Lg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://paypal.me/FabianTreck?country.x=FR&locale.x=fr_FR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Responsive_Design-51B7E0?style=for-the-badge&logo=responsive&logoColor=white" /> 
-</p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
-</p> 
+<img src="https://raw.githubusercontent.com/OmegazonCMoi/OmegazonCMoi/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 📫 Me contacter
-- **Email**: [jesuisjesus453@gmail.com](mailto:jesuisjesus453@gmail.com)
-- **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,php,sql,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark"></p>
 
-## 🌱 En ce moment, j'apprends...
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) pour développer des interfaces utilisateur dynamiques et réactives.
-- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) pour des applications web robustes et modulaires.
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) pour un design rapide et efficace.
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/312j54fo2zv6dh23eopbdui6vdte">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312j54fo2zv6dh23eopbdui6vdte&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/OmegazonCMoi/count.svg?"  />
+</div>
+
+###
