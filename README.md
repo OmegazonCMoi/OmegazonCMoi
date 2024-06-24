@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,php,sql,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,php,cs,py,ts,bash,react,tailwind,vite,bootstrap,symfony,dotnet,nodejs,git,github,vscode,visualstudio,discord,obsidian,phpstorm,npm,apple,debian,kali,windows,mongodb,aws,mysql&theme=dark"></p>
 
 ###
 
