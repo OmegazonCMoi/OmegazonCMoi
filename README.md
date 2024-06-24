@@ -30,14 +30,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/312j54fo2zv6dh23eopbdui6vdte">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312j54fo2zv6dh23eopbdui6vdte&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/OmegazonCMoi/count.svg?"  />
 </div>
 
